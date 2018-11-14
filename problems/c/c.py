@@ -1,5 +1,3 @@
-# tyler
-
 def combinations(iterable, r):
     pool = tuple(iterable)
     n = len(pool)

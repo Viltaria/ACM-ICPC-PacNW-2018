@@ -1,5 +1,3 @@
-# gabe
-
 import math
 k, b = raw_input().split(' ')
 
